@@ -4,11 +4,11 @@ color: white;
 }
 .first{
   width:33%;
-  display: inline-block;
   border: 2px solid white;
 }
 
 h1{
   border: 2px dashed yellow;
   border-radius: 30px 100px 30px 100px;
+  display:block;
 }
